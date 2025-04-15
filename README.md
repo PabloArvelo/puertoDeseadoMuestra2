@@ -54,8 +54,6 @@ Actualmente implementa:
  
 - IDE IntelliJ Idea
 
-![preview](https://drive.google.com/uc?export=view&id=1bgMHINAaaDFko2OpK669iJgaqgp_tbp4)
-
 ![preview](https://drive.google.com/uc?export=view&id=1kPfMj5S33HfNt8CHhFWEfU30OgKuZfvJ)
 ![preview](https://drive.google.com/uc?export=view&id=169RxFcfv-QxHDAE7YrPxiebJaMCWkvXG)
 ![preview](https://drive.google.com/uc?export=view&id=1GmNX1S4C7_8NUKpwFKd7P66JmtFnniQf)
